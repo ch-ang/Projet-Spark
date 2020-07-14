@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m[32mEx0WordcountSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32m- number of data loaded[0m[0m
+[0m[[0minfo[0m] [0m[32m- countWord should count the occurrences of each word[0m[0m
+[0m[[0minfo[0m] [0m[32m- filterOnWordcount should keep the words which appear more than 4 times[0m[0m

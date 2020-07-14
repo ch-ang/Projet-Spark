@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m[32mEx2TweetMiningSpec:[0m[0m
+[0m[[0minfo[0m] [0m[31m- should count the persons mentioned on tweets *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  0 was not equal to 4462 (Ex2TweetMiningSpec.scala:12)[0m[0m
+[0m[[0minfo[0m] [0m[31m- should count the number for each user mention *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  0 was not equal to 3283 (Ex2TweetMiningSpec.scala:17)[0m[0m
+[0m[[0minfo[0m] [0m[31m- should define the top10 *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  0 was not equal to 10 (Ex2TweetMiningSpec.scala:23)[0m[0m
